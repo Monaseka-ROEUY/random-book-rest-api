@@ -1,6 +1,6 @@
 # Random Book REST API
 
-This project is a simple REST API that provides random book information whenever user requests. The API has two endpoints: one for retrieving a single random book and another for retrieving a list of random books of a specified size.
+This project is a simple REST API that provides random book information whenever user requests or reload the web browser. The API has two endpoints: one for retrieving a single random book and another for retrieving a list of random books of a specified size.
 
 ## Endpoints
 
